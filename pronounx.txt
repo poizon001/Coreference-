@@ -1,0 +1,27 @@
+firstPersonPronouns = ["i", "me", "myself", "mine", "my", "we", "us", "ourself", "ourselves", "ours", "our"]
+
+secondPersonPronouns = ["you", "yourself", "yours", "your", "yourselves"]
+
+thirdPersonPronouns = ["he", "him", "himself", "his", "she", "her", "herself", "hers", "her", "it", "itself", "its", "one", "oneself", "one's", "they", "them", "themself", "themselves", "theirs", "their", "they", "them", "'em", "themselves"]
+
+otherPronouns = ["who", "whom", "whose", "where", "when","which"]
+
+demonstratives = ["this", "that", "these", "those"]
+
+singularPronounsOld = ["i", "me", "myself", "mine", "my", "yourself", "he", "him", "himself", "his", "she", "her", "herself", "hers", "her", "it", "itself", "its", "one", "oneself", "one's"]
+
+singularPronouns = ["i", "me", "myself", "mine", "my", "yourself", "it", "itself", "its", "one", "oneself", "one's"]
+
+singularPronounsNoMF = ["i", "me", "myself", "mine", "my", "it", "itself", "its", "one", "oneself", "one's"]
+
+
+pluralPronouns = ["we", "us", "ourself", "ourselves", "ours", "our", "yourself", "yourselves", "they", "them", "themself", "themselves", "theirs", "their"]
+
+malePronouns = ["he", "him", "himself", "his"]
+
+femalePronouns = ["her", "hers", "herself", "she"]
+
+neutralPronouns = ["it", "its", "itself", "here", "there"]
+
+
+

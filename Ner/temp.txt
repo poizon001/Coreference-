@@ -1,0 +1,229 @@
+Concepcion
+[[u'Aug Concepcion'], ['NNP']]
+sources
+[[u'Police sources'], ['NN']]
+individuals
+[[u'unidentified individuals'], ['NN']]
+bomb
+[[u'a The the bomb'], ['NN']]
+front
+[[u'front of a Mormon Church'], ['NNP']]
+Church
+[[u'a Mormon the Church of Jesus Christ'], ['NNP']]
+District
+[[u'Talcahuano District'], ['NNP']]
+bomb
+[[u'a The the bomb'], ['NN']]
+which
+[[], []]
+damage
+[[u'property damage'], ['NN']]
+chapel
+[[u'a chapel of the Church'], ['NNP']]
+Church
+[[u'a Mormon the Church of Jesus Christ'], ['NNP']]
+Christ
+[[u'Jesus Christ of Latter located at Saints'], ['NNP']]
+Saints
+[[u'Latter-Day located Saints'], ['NNP']]
+Street
+[[u'No 3856 Gomez Carreno Street'], ['NNP']]
+wave
+[[u'The shock wave'], ['NN']]
+wall
+[[u'a wall', u'the windows of the church'], ['NN', 'NN']]
+church
+[[u'the church'], ['NN']]
+injuries
+[[u'any injuries'], ['NN']]
+personnel
+[[u'Carabineros bomb squad personnel'], ['NNP']]
+location
+[[u'the location'], ['NN']]
+bomb
+[[u'a The the bomb'], ['NN']]
+grams
+[[u'50 grams of an  ammonium nitrate oil blasting agents'], ['NNS']]
+agents
+[[u'an-fo agents'], ['NN']]
+forces
+[[u'Carabineros special forces'], ['NNP']]
+area
+[[u'a large area'], ['NN']]
+those
+[[], []]
+attack
+[[u'the this attack'], ['NN']]
+they
+[['they'], ['PRP']]
+police
+[[u'The police'], ['NN']]
+authorities
+[[u'the appropriate authorities'], ['NN']]
+that
+[[], []]
+attack
+[[u'the this attack'], ['NN']]
+-> Text-VB (root)
+  -> Concepcion-NNP (nsubj)
+    -> Aug-NN (appos)
+      -> 23-CD (num)
+      -> 88-CD (dep)
+        -> Service-NNP (appos)
+          -> Santiago-NNP (nn)
+          -> Domestic-NNP (nn)
+      -> Report-NNP (dep)
+        -> -LSB---LRB- (punct)
+        -> Valdebenito-NNP (prep)
+          -> -RSB---RRB- (punct)
+          -> -LSB---LRB- (punct)
+          -> Miguel-NNP (nn)
+          -> Angel-NNP (nn)
+    -> -RSB---RRB- (punct)
+  -> -LSB---LRB- (punct)
+  -> reported-VBN (ccomp)
+    -> -RSB---RRB- (punct)
+    -> sources-NNS (nsubj)
+      -> Police-NNS (nn)
+    -> have-VBP (aux)
+    -> planted-VBD (ccomp)
+      -> that-IN (mark)
+      -> individuals-NNS (nsubj)
+        -> unidentified-JJ (amod)
+      -> bomb-NN (dobj)
+        -> a-DT (det)
+      -> in-IN (prep)
+        -> front-NN (pobj)
+          -> of-IN (prep)
+            -> Church-NNP (pobj)
+              -> a-DT (det)
+              -> Mormon-NNP (nn)
+      -> in-IN (prep)
+        -> District-NNP (pobj)
+          -> Talcahuano-NNP (nn)
+-> placed-VBN (root)
+  -> bomb-NN (nsubjpass)
+    -> The-DT (det)
+    -> exploded-VBD (rcmod)
+      -> which-WDT (nsubj)
+      -> and-CC (cc)
+      -> caused-VBD (conj)
+        -> damage-NN (dobj)
+          -> property-NN (nn)
+        -> worth-JJ (prep)
+          -> pesos-NNS (dep)
+            -> 50,000-CD (num)
+  -> was-VBD (auxpass)
+  -> at-IN (prep)
+    -> chapel-NN (pobj)
+      -> a-DT (det)
+      -> of-IN (prep)
+        -> Church-NNP (pobj)
+          -> the-DT (det)
+          -> of-IN (prep)
+            -> Christ-NNP (pobj)
+              -> Jesus-NNP (nn)
+              -> of-IN (prep)
+                -> Saints-NNP (pobj)
+                  -> Latter-Day-NNP (nn)
+                  -> located-JJ (amod)
+                    -> at-IN (prep)
+                      -> Street-NNP (pobj)
+                        -> No-DT (det)
+                        -> 3856-CD (num)
+                        -> Gomez-NNP (nn)
+                        -> Carreno-NNP (nn)
+-> destroyed-VBD (root)
+  -> wave-NN (nsubj)
+    -> The-DT (det)
+    -> shock-NN (nn)
+  -> wall-NN (dobj)
+    -> a-DT (det)
+    -> roof-NN (conj)
+      -> the-DT (det)
+    -> and-CC (cc)
+    -> windows-NNS (conj)
+      -> the-DT (det)
+      -> of-IN (prep)
+        -> church-NN (pobj)
+          -> the-DT (det)
+  -> but-CC (cc)
+  -> cause-VB (conj)
+    -> did-VBD (aux)
+    -> not-RB (neg)
+    -> injuries-NNS (dobj)
+      -> any-DT (det)
+-> went-VBD (root)
+  -> personnel-NNS (nsubj)
+    -> Carabineros-NNP (nn)
+    -> bomb-NN (nn)
+    -> squad-NN (nn)
+  -> immediately-RB (advmod)
+  -> to-TO (prep)
+    -> location-NN (pobj)
+      -> the-DT (det)
+  -> and-CC (cc)
+  -> discovered-VBD (conj)
+    -> made-VBN (ccomp)
+      -> that-IN (mark)
+      -> bomb-NN (nsubjpass)
+        -> the-DT (det)
+      -> was-VBD (auxpass)
+      -> of-IN (prep)
+        -> grams-NNS (pobj)
+          -> 50-CD (num)
+          -> of-IN (prep)
+            -> agents-NNS (pobj)
+              -> an-fo-JJ (amod)
+              -> -LSB---LRB- (punct)
+              -> ammonium-NN (nn)
+              -> nitrate-fuel-JJ (amod)
+              -> oil-NN (nn)
+              -> blasting-VBG (amod)
+          -> -RSB---RRB- (punct)
+          -> and-CC (cc)
+          -> fuse-NN (conj)
+            -> a-DT (det)
+            -> slow-JJ (amod)
+-> raided-VBD (root)
+  -> forces-NNS (nsubj)
+    -> Carabineros-NNP (nn)
+    -> special-JJ (amod)
+  -> soon-RB (advmod)
+  -> area-NN (dobj)
+    -> a-DT (det)
+    -> large-JJ (amod)
+  -> try-VB (xcomp)
+    -> to-TO (aux)
+    -> arrest-VB (xcomp)
+      -> to-TO (aux)
+      -> responsible-JJ (xcomp)
+        -> those-DT (nsubj)
+        -> for-IN (prep)
+          -> attack-NN (pobj)
+            -> the-DT (det)
+  -> but-CC (cc)
+  -> unsuccessful-JJ (conj)
+    -> they-PRP (nsubj)
+    -> were-VBD (cop)
+-> informed-VBN (root)
+  -> police-NNS (nsubj)
+    -> The-DT (det)
+  -> have-VBP (aux)
+  -> already-RB (advmod)
+  -> authorities-NNS (dobj)
+    -> the-DT (det)
+    -> appropriate-JJ (amod)
+    -> prosecutor-NN (rcmod)
+      -> that-DT (nsubj)
+      -> is-VBZ (cop)
+      -> the-DT (det)
+      -> national-JJ (amod)
+      -> and-CC (cc)
+      -> court-NN (conj)
+        -> the-DT (det)
+        -> Talcahuano-NNP (nn)
+        -> criminal-JJ (amod)
+    -> of-IN (prep)
+      -> attack-NN (pobj)
+        -> this-DT (det)

@@ -1,0 +1,191 @@
+Bitcoin Mainstream
+{'status': u'ZERO_RESULTS'}
+Winklevoss twins
+{'status': u'ZERO_RESULTS'}
+SpaceX
+{'status': u'ZERO_RESULTS'}
+chandni
+{'status': u'OK', 'country': u'India', 'administrative_area_level_2': u'Garhwa', 'administrative_area_level_1': u'Jharkhand', 'locality': u'Chandni'}
+Uber
+{'status': u'OK', 'country': u'Germany', 'administrative_area_level_1': u'Th\xfcringen', 'locality': u'Thalwenden'}
+Billion
+{'status': u'OK', 'country': u'France', 'administrative_area_level_2': u'Morbihan', 'administrative_area_level_1': u'Bretagne', 'locality': u'Ambon'}
+London
+{'status': u'OK', 'country': u'United Kingdom', 'administrative_area_level_2': u'Greater London', 'locality': u'London'}
+Venture Capital
+{'status': u'OK', 'country': u'United States', 'administrative_area_level_2': u'Cherokee County', 'administrative_area_level_1': u'Georgia', 'locality': u'Woodstock'}
+Buyouts
+{'status': u'ZERO_RESULTS'}
+investment returns
+{'status': u'ZERO_RESULTS'}
+Online Tuxedo
+{'status': u'ZERO_RESULTS'}
+Million
+{'status': u'OK', 'country': u'United States', 'administrative_area_level_2': u'Putnam County', 'administrative_area_level_1': u'Florida', 'locality': u'East Palatka'}
+Shazam
+{'status': u'OK', 'locality': u'Eureka', 'country': u'United States', 'administrative_area_level_3': u'Meramec', 'administrative_area_level_2': u'St. Louis County', 'administrative_area_level_1': u'Missouri'}
+Battery Ventures
+{'status': u'ZERO_RESULTS'}
+Porch.com
+{'status': u'ZERO_RESULTS'}
+Los Angeles dodgers
+{'status': u'OK', 'country': u'Mexico', 'administrative_area_level_1': u'Guanajuato', 'locality': u'Le\xf3n'}
+Glassdoor
+{'status': u'ZERO_RESULTS'}
+Million
+{'status': u'OK', 'country': u'United States', 'administrative_area_level_2': u'Putnam County', 'administrative_area_level_1': u'Florida', 'locality': u'East Palatka'}
+Biotech company Moderna
+{'status': u'ZERO_RESULTS'}
+SnapChat
+{'status': u'ZERO_RESULTS'}
+Xiaomi
+{'status': u'OK', 'country': u'China', 'administrative_area_level_1': u'Zhejiang', 'locality': u'Taizhou'}
+Young
+{'status': u'OK', 'country': u'Australia', 'administrative_area_level_1': u'New South Wales', 'locality': u'Young'}
+SpaceX
+{'status': u'ZERO_RESULTS'}
+the 1990s
+{'status': u'OK', 'country': u'Sweden', 'administrative_area_level_1': u'Sk\xe5ne l\xe4n'}
+Uber
+{'status': u'OK', 'country': u'Germany', 'administrative_area_level_1': u'Th\xfcringen', 'locality': u'Thalwenden'}
+Billion
+{'status': u'OK', 'country': u'France', 'administrative_area_level_2': u'Morbihan', 'administrative_area_level_1': u'Bretagne', 'locality': u'Ambon'}
+Venture Capital
+{'status': u'OK', 'country': u'United States', 'administrative_area_level_2': u'Cherokee County', 'administrative_area_level_1': u'Georgia', 'locality': u'Woodstock'}
+Buyouts
+{'status': u'ZERO_RESULTS'}
+investment returns
+{'status': u'ZERO_RESULTS'}
+Shazam
+{'status': u'OK', 'locality': u'Eureka', 'country': u'United States', 'administrative_area_level_3': u'Meramec', 'administrative_area_level_2': u'St. Louis County', 'administrative_area_level_1': u'Missouri'}
+Battery Ventures
+{'status': u'ZERO_RESULTS'}
+Porch.com
+{'status': u'ZERO_RESULTS'}
+Los Angeles
+{'status': u'OK', 'country': u'United States', 'administrative_area_level_2': u'Los Angeles County', 'administrative_area_level_1': u'California', 'locality': u'Los Angeles'}
+Hong Kong protests
+{'status': u'OK', 'country': u'Hong Kong'}
+TheSkimm
+{'status': u'ZERO_RESULTS'}
+Oprah Winfrey
+{'status': u'ZERO_RESULTS'}
+fans
+{'status': u'OK', 'country': u'France', 'administrative_area_level_2': u'Tarn', 'administrative_area_level_1': u'Midi-Pyr\xe9n\xe9es', 'locality': u'Le Masnau-Massugui\xe8s'}
+Frenzy
+{'status': u'OK', 'country': u'United States', 'administrative_area_level_2': u'Santa Clara County', 'administrative_area_level_1': u'California', 'locality': u'Sunnyvale'}
+the next Uber
+{'status': u'ZERO_RESULTS'}
+start-ups
+{'status': u'ZERO_RESULTS'}
+Jessica Alba
+{'status': u'ZERO_RESULTS'}
+7 things
+{'status': u'OK', 'locality': u'North Salem', 'country': u'United States', 'administrative_area_level_3': u'North Salem', 'administrative_area_level_2': u'Westchester County', 'administrative_area_level_1': u'New York'}
+Uber
+{'status': u'OK', 'country': u'Germany', 'administrative_area_level_1': u'Th\xfcringen', 'locality': u'Thalwenden'}
+Baidu
+{'status': u'OK', 'country': u'China', 'locality': u'Quzhou'}
+Didi Dache
+{'status': u'ZERO_RESULTS'}
+Million
+{'status': u'OK', 'country': u'United States', 'administrative_area_level_2': u'Putnam County', 'administrative_area_level_1': u'Florida', 'locality': u'East Palatka'}
+Alisher Usmanov
+{'status': u'ZERO_RESULTS'}
+James Watson
+{'status': u'OK', 'country': u'United States', 'administrative_area_level_2': u'Richland County', 'administrative_area_level_1': u'South Carolina', 'locality': u'Eastover'}
+Uber
+{'status': u'OK', 'country': u'Germany', 'administrative_area_level_1': u'Th\xfcringen', 'locality': u'Thalwenden'}
+critics
+{'status': u'ZERO_RESULTS'}
+Uber
+{'status': u'OK', 'country': u'Germany', 'administrative_area_level_1': u'Th\xfcringen', 'locality': u'Thalwenden'}
+a dollars
+{'status': u'OK', 'country': u'United States', 'administrative_area_level_2': u'Morrison County', 'administrative_area_level_1': u'Minnesota', 'locality': u'Cushing'}
+its coffers
+{'status': u'ZERO_RESULTS'}
+Yik Yak
+{'status': u'ZERO_RESULTS'}
+Million
+{'status': u'OK', 'country': u'United States', 'administrative_area_level_2': u'Putnam County', 'administrative_area_level_1': u'Florida', 'locality': u'East Palatka'}
+Uber
+{'status': u'OK', 'country': u'Germany', 'administrative_area_level_1': u'Th\xfcringen', 'locality': u'Thalwenden'}
+Kik
+{'status': u'OK', 'country': u'Poland', 'administrative_area_level_2': u'oleski', 'administrative_area_level_1': u'opolskie', 'locality': u'Bodzanowice'}
+Million
+{'status': u'OK', 'country': u'United States', 'administrative_area_level_2': u'Putnam County', 'administrative_area_level_1': u'Florida', 'locality': u'East Palatka'}
+GIFs
+{'status': u'OK', 'country': u'Brazil', 'administrative_area_level_2': u'Aracruz', 'administrative_area_level_1': u'Esp\xedrito Santo', 'locality': u'Aracruz'}
+Gigya
+{'status': u'ZERO_RESULTS'}
+Million
+{'status': u'OK', 'country': u'United States', 'administrative_area_level_2': u'Putnam County', 'administrative_area_level_1': u'Florida', 'locality': u'East Palatka'}
+Google
+{'status': u'OK', 'country': u'United States', 'administrative_area_level_2': u'Aleutians East', 'administrative_area_level_1': u'Alaska'}
+Magic Leap
+{'status': u'OK', 'country': u'United States', 'administrative_area_level_2': u'Clark County', 'administrative_area_level_1': u'Nevada', 'locality': u'Henderson'}
+Truecaller
+{'status': u'ZERO_RESULTS'}
+ID start-Up
+{'status': u'ZERO_RESULTS'}
+Million
+{'status': u'OK', 'country': u'United States', 'administrative_area_level_2': u'Putnam County', 'administrative_area_level_1': u'Florida', 'locality': u'East Palatka'}
+Square
+{'status': u'OK', 'country': u'Iran', 'administrative_area_level_2': u'Zabol', 'administrative_area_level_1': u'Sistan Va Baluchestan', 'locality': u'Z\u0101bol'}
+Narendra Modi
+{'status': u'OK', 'country': u'India', 'administrative_area_level_2': u'Kanpur Nagar', 'administrative_area_level_1': u'Uttar Pradesh', 'locality': u'Kanpur'}
+Barack Obama
+{'status': u'OK', 'locality': u'East Saint Louis', 'country': u'United States', 'administrative_area_level_3': u'East St. Louis', 'administrative_area_level_2': u'St. Clair County', 'administrative_area_level_1': u'Illinois'}
+Reddit Deal
+{'status': u'ZERO_RESULTS'}
+Snoop Dogg
+{'status': u'OK', 'country': u'Norway', 'administrative_area_level_2': u'Bod\xf8', 'administrative_area_level_1': u'Nordland', 'locality': u'Bod\xf8'}
+Sequoia Capital
+{'status': u'OK', 'locality': u'Springfield', 'country': u'United States', 'administrative_area_level_3': u'Capital', 'administrative_area_level_2': u'Sangamon County', 'administrative_area_level_1': u'Illinois'}
+Brazil
+{'status': u'OK', 'country': u'Brazil'}
+Marc Andreessen
+{'status': u'ZERO_RESULTS'}
+start-ups
+{'status': u'ZERO_RESULTS'}
+FiveStars
+{'status': u'OK', 'country': u'United States', 'administrative_area_level_2': u'Fresno County', 'administrative_area_level_1': u'California'}
+Million
+{'status': u'OK', 'country': u'United States', 'administrative_area_level_2': u'Putnam County', 'administrative_area_level_1': u'Florida', 'locality': u'East Palatka'}
+Tiger Global
+{'status': u'OK', 'country': u'Philippines', 'administrative_area_level_1': u'Metro Manila', 'locality': u'Makati'}
+tech start-ups
+{'status': u'ZERO_RESULTS'}
+Salesforce.com
+{'status': u'ZERO_RESULTS'}
+FanDuel
+{'status': u'ZERO_RESULTS'}
+Million
+{'status': u'OK', 'country': u'United States', 'administrative_area_level_2': u'Putnam County', 'administrative_area_level_1': u'Florida', 'locality': u'East Palatka'}
+Alibaba
+{'status': u'OK', 'country': u'China', 'administrative_area_level_1': u'Zhejiang Sheng', 'locality': u'Hangzhou Shi'}
+Wanda
+{'status': u'OK', 'country': u'United States', 'administrative_area_level_2': u'Kleberg County', 'administrative_area_level_1': u'Texas', 'locality': u'Kingsville'}
+Baidu
+{'status': u'OK', 'country': u'China', 'locality': u'Quzhou'}
+Tencent
+{'status': u'OK', 'country': u'United States', 'administrative_area_level_2': u'Marion County', 'administrative_area_level_1': u'Oregon', 'locality': u'Salem'}
+forces
+{'status': u'OK', 'country': u'United States', 'administrative_area_level_2': u'Warren County', 'administrative_area_level_1': u'New Jersey', 'locality': u'Washington'}
+Ratan Tata
+{'status': u'OK', 'country': u'Japan', 'administrative_area_level_1': u'Kagawa-ken', 'locality': u'Takamatsu-shi'}
+Indian online retailer Snapdeal
+{'status': u'ZERO_RESULTS'}
+DraftKings
+{'status': u'ZERO_RESULTS'}
+Ramesh Kumar
+{'status': u'OK', 'country': u'India', 'administrative_area_level_2': u'Bangalore Urban', 'administrative_area_level_1': u'Karnataka', 'locality': u'Bengaluru'}
+Mohan Kumar
+{'status': u'OK', 'country': u'India', 'administrative_area_level_2': u'Chennai', 'administrative_area_level_1': u'Tamil Nadu', 'locality': u'Chennai'}
+Salman Khan
+{'status': u'OK', 'country': u'Iran', 'administrative_area_level_1': u'Fars', 'locality': u'Shiraz'}
+Shahrukh Khan
+{'status': u'OK', 'country': u'Pakistan', 'administrative_area_level_2': u'Gujranwala', 'administrative_area_level_1': u'Punjab', 'locality': u'Gujranwala'}
+friends
+{'status': u'OK', 'country': u'United States', 'administrative_area_level_2': u'Clark County', 'administrative_area_level_1': u'Nevada', 'locality': u'Las Vegas'}
+[Finished in 76.8s]

@@ -1,0 +1,2 @@
+[[['John'], ['NNP'], 'nsubj', 1], [['Bill'], ['NNP'], 'dobj', 1]]
+[[['He'], ['PRP'], 'nsubj', 1], [[False], ['NN'], 'dobj', 1]]
